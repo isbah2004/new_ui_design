@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410315482061",
+    "firebase_url": "https://wallpaper-8cc23-default-rtdb.firebaseio.com",
+    "project_id": "wallpaper-8cc23",
+    "storage_bucket": "wallpaper-8cc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410315482061:android:0a68ae0ba8ac7cb60b9a84",
+        "android_client_info": {
+          "package_name": "com.lottechem.lcplacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPgzN9UO_U4jHOnAPpZjbdRItAlXQAbnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410315482061-275rbmq0frh718c76kpetksrjhnthqpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410315482061-i54sr1uaad5tou4s8fjgalpa5kdqq3qa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
